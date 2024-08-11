@@ -1,0 +1,4 @@
+shodan==1.24.0
+mcstatus==5.1.1
+rich==13.3.1
+colorama==0.4.4
